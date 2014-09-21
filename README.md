@@ -1,4 +1,4 @@
-Pushmote iOS7 SDK
+Pushmote iOS8 SDK
 =======
 
 <a href="https://docs.pushmote.com/how-to/import-pushmote-ios-sdk/">How to import Pushmote iOS SDK?</a>
