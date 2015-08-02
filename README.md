@@ -7,4 +7,4 @@ Pushmote iOS SDK
 
 Version
 =======
-2.0
+2.0.1

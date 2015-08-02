@@ -1,8 +1,8 @@
 //
 //  Pushmote.h
 //  PushmoteSDK
-//  Copyright (c) 2015 Pushmote. All rights reserved.
 //
+//  Copyright (c) 2015 Pushmote. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
