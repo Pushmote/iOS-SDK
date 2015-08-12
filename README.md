@@ -8,3 +8,9 @@ Pushmote iOS SDK
 Version
 =======
 2.0.2
+
+
+Changelog
+=======
+v2.0.2
+- Fixed the view of "Open HTML" action
