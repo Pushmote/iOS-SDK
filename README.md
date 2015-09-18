@@ -7,10 +7,13 @@ Pushmote iOS SDK
 
 Version
 =======
-2.0.2
+2.0.3
 
 
 Changelog
 =======
+v2.0.3
+- Added simulate action
+
 v2.0.2
 - Fixed the view of "Open HTML" action
