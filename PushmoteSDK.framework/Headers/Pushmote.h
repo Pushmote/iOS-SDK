@@ -24,4 +24,5 @@
 
 + (void)startWithApplicationId:(NSString*)appId;
 + (void)handleNotification:(UILocalNotification*)notification;
++ (void)simulateAction;
 @end
