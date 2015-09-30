@@ -7,11 +7,14 @@ Pushmote iOS SDK
 
 Version
 =======
-2.0.3
+2.0.4
 
 
 Changelog
 =======
+v2.0.4
+- Added new analytics
+
 v2.0.3
 - Added simulate action
 
