@@ -7,11 +7,14 @@ Pushmote iOS SDK
 
 Version
 =======
-2.1.0
+2.1.1
 
 
 Changelog
 =======
+v2.1.1
+- Added setUserProperties feature
+
 v2.1.0
 - Sticky/Non-sticky content
 
