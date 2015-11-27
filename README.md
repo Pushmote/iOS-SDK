@@ -7,11 +7,14 @@ Pushmote iOS SDK
 
 Version
 =======
-2.0.4
+2.1.0
 
 
 Changelog
 =======
+v2.1.0
+- Sticky/Non-sticky content
+
 v2.0.4
 - Added new analytics
 
