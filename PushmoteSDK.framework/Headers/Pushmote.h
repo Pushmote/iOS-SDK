@@ -15,5 +15,7 @@
 
 + (void)startWithApplicationId:(NSString*)appId;
 + (void)handleNotification:(UILocalNotification*)notification;
++ (void)setUserProperties:(NSDictionary*)userProperties;
 + (void)simulateAction;
+
 @end
